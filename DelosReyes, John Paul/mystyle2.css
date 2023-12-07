@@ -1,0 +1,78 @@
+.div1{
+  width: 400px;
+  padding: 30px;
+  border: 20px solid #3498db;
+  margin: 15px;
+ }
+ 
+ .div2{
+  width: 250px;
+  height: 80px;
+  padding: 10px;
+  border: 5px dashed #e74c3c;
+  margin: 0;
+ }
+ 
+
+h1 {
+   color:#27ae60;
+  style: double;
+   width: 8px
+}
+p{
+text-align:justify;
+text-decoration: underline #f39c12 ;
+text-transform: capitalize;
+
+}
+
+p{
+font-family: sans-serif;
+}
+
+
+a:link {
+  color: #3498db;
+}
+ 
+a:visited {
+  color: #8e44ad;
+}
+
+
+a:hover {
+  color: #e74c3c;
+ 
+a:active {
+  color: #27ae60;
+}
+a:hover {
+  background-color: yellow;
+}
+ 
+
+ ul.a {
+  list-style-type: square;
+}
+ol.b {
+  list-style-type: lower-roman;
+}
+
+ 
+   <style style="text/css">
+  	.hoverTable{
+		width:80%; 
+		border-collapse:collapse; 
+		 
+	}
+	.hoverTable td{ 
+		padding:10px; border:#4e95f4 1px solid;
+		 border-bottom: 2px solid #3498db;
+		 border-top: 1px solid #ddd;
+	}
+	.hoverTable tr {
+		background: white;
+	}
+    .hoverTable tr:hover {
+          background-color:#f39c12;
+    }

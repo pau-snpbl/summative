@@ -1,0 +1,46 @@
+<html>
+<head>
+<title> THIS IS CRECENCIA SONG</title>
+</head>
+</body>
+<h1 style=
+"font-size; 50px
+color:black;
+background-color:orage;
+font-family;tahoma;
+text-align:center;"
+>
+THIS IS THE  HYMN OF CRECENCIA</P>
+<hr>
+<br>
+<p>CDLSHS School hymn
+
+Tahanan ng higit na kaalaman
+Institusyong hinubogng karanasan
+Sa pagsikat ng araw ating masisilayan
+Crecencia Drucila natatanging paaralan
+
+Chorus:
+Crecencia Drucila Lopez ika'y 
+amingmamahalin
+Sa alon ng hamon magiting 
+na malalayag
+Magandang legasiya'ya
+habambuhay na iahahayag
+
+
+May iisang misyon at hangarin
+Pandayin, karununga'y linangin
+Magpupunyagi sa gitna ng mga pangaral
+Ang lahat ng papuri'y alay sa Maykapal
+
+
+(Repeat Chorus 2x)
+</p>
+
+
+
+</body>
+</html>
+
+
